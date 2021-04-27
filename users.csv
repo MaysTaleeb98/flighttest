@@ -1,0 +1,11 @@
+Flight_number, Fare_code, Amount, Restrictions
+	UA560, L, 350, No
+	G4154, Y, 106, No
+	G4155, Y, 142, No
+	DL5841, Y, 100, Yes
+	DL1149, B, 500, Yes
+	HA48, F, 1000, Yes
+	AA1522, Y, 250, No
+	AA3472, Y, 150, Yes
+	WN380, Y, 256, No
+	B6624, Y, 98, No
